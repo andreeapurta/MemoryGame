@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="MemoryTest.Card">
+    <Position X="0.5" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIAAAIAAAAAAAAAAAAQAAAAAAAAhMAAAAAg=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryTest.MemoryGame">
+    <Position X="4.25" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>wAAAAAEAAAADAAAAAAAoAAAAAAYEEABQAAABAQIIEgA=</HashCode>
+      <FileName>MemoryGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryTest.MemoryGameMultiplayer">
+    <Position X="2.5" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIIACA=</HashCode>
+      <FileName>MemoryGameMultiplayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryTest.MemoryGameSinglePlayer">
+    <Position X="6.25" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIIAAA=</HashCode>
+      <FileName>MemoryGameSinglePlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryTest.Player">
+    <Position X="7.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryTest.Score">
+    <Position X="7.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
